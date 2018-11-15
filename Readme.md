@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BO.cs](./CS/BO.cs) (VB: [BO.vb](./VB/BO.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # How to implement IDataDictionary/IDisplayNameProvider for a Business Object
 
 
